@@ -42,6 +42,3 @@ micronaut {
         annotations("com.example.*")
     }
 }
-
-
-
